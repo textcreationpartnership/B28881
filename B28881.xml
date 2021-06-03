@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks on the papers delivered by Sir William Perkins, and Sir John Friend, Kts. at the place of their execution.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28881</idno><idno type="EEBO-CITATION">99834807</idno>
+  <idno type="VID">206051</idno>
+  <idno type="EEBO-PROQUEST">2264174718</idno>
+  
+            <idno type="STC">Wing R934</idno>
+            <idno type="STC">ESTC R10504</idno>
+            <idno type="PROQUEST">99834807</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834807e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206051)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:24, 1769:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks on the papers delivered by Sir William Perkins, and Sir John Friend, Kts. at the place of their execution.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Jones in the Savoy,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Item at reel 1769:40 identified as Wing P1572 (number cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of the original in the Trinity College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Parkyns, William, --  Sir, 1649?-1696 --  Early works to 1800.</term>
+               <term type="personal_name">Friend, John, --  Sir, d. 1696 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206051:1"/>
+            <pb facs="tcp:206051:1"/>
+            <p>REMARKS ON THE PAPERS Delivered by
+<list>
+                  <item>Sir <hi>William Perkins,</hi> And</item>
+                  <item>Sir <hi>John Friend,</hi>
+                  </item>
+               </list> Kts.</p>
+            <p>AT The Place of their Execution.</p>
+            <p>Printed by <hi>Edw. Jones</hi> in the <hi>Savoy.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206051:2"/>
+            <pb n="3" facs="tcp:206051:2"/>
+            <head>REMARKS <hi>on the Papers deli<g ref="char:EOLhyphen"/>vered by Sir</hi> William Perkins, <hi>and Sir</hi> John Friend, <hi>&amp;c.</hi>
+            </head>
+            <p>THE last Words of dying Men ought to be as gently Cen<g ref="char:EOLhyphen"/>sur'd, and as Candidly Interpreted, as may be; and if there are such hard Passages in them, as afford just matter of severe Reflections; yet even these, fall heaviest on those <hi>Miserable Guides,</hi> who, it seems, had but too much Credit with these unfortunate Men, whose Education furnished them with no great Ad<g ref="char:EOLhyphen"/>vantages, to Examine the Notions of Government, and whose course of Life gave no extraordinary Indications of a Scrupulous Enquiry, into the Lawfulness of all their Actions. But their <hi>Guides,</hi> it seems, resolv'd to Pawn their own Souls for them, with Relation to God, as they have done their Reputation to the World, in justifying their Actions, more particularly their last Papers. Sir <hi>William Perkins</hi>'s Paper is Natively writ, and there is little Reason to doubt, but that it was his own Composition. But few who knew Sir <hi>John Friend,</hi> will think so of his; it has the Air of a Man, that hoped to maintain a Con<g ref="char:EOLhyphen"/>venticle by it, and thô the Contexture of it is very <hi>indifferent,</hi> yet there seems to be little of Sir <hi>John</hi> himself in it, besides the Hand, and the Subscription.</p>
+            <p>These Confessors, who by a New Ceremony, would needs give them Absolution so publickly, all in a Body, by an Affectation that has no Warrant, neither from the Common-Prayer Book, nor the usual Practice, and which no Popish Priest ever yet ventured on; did no doubt intend by this great Singularity, to let all the Company see, that they believ'd these Gentlemen died in a state of compleat Re<g ref="char:EOLhyphen"/>pentance.
+<pb n="4" facs="tcp:206051:3"/>They were Condemn'd for Crimes of a very high Nature. The one was not only <hi>Privy</hi> to the design of Assassinating the King, but was so great an Undertaker in it, that he was far beyond the Guilt of a single Assassinate; He was to have procured Five, who were to have Acted in it; he had not only his own Guilt, but all theirs likewise upon him. This he freely acknowledged to those Honou<g ref="char:EOLhyphen"/>rable Persons who were sent to Examine him, and he does not deny it here, thô he Extenuates it all he can. The other as well as he, was Engaged in a design of bringing over a Foreign Army of Papists, who, besides the Ancient Enmity that they bear to our Nation, are the most Violent Persecutors of that Religion, of which these Gentlemen pre<g ref="char:EOLhyphen"/>tended to be, of any now in the World. They have been also form<g ref="char:EOLhyphen"/>ed, as by a Discipline, to a Degree of Cruelty and Barbarity, even, where their own Religion is professed, that was not known to for<g ref="char:EOLhyphen"/>mer Ages. Neither the Paying Contributions, nor the taking Pro<g ref="char:EOLhyphen"/>tections, can save Countreys, which they think it is their Interest to Destroy, or to <hi>Execute,</hi> a new Term invented in their late Wars, to which their frequently repeated Practices, have given a very deter<g ref="char:EOLhyphen"/>mined Signification. The bringing over such an Army to destroy or Conquer us, gave this poor misled Gentleman, no sort of trouble no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uneasiness in his Conscience. He Triumphs in it, he calls it <hi>The Cau<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of God, and of True Religion.</hi> His Ministers perswaded him, that i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was so, they gave him Absolution upon it, or rather for it; for one of them told Sir <hi>William Perkins,</hi> to deliver his Paper, when all was over. This thô Addressed to him, was no doubt directed to both. They would have the Papers to be delivered as the last Act of their Lives, that so it might appear upon what Foundation all their Pray<g ref="char:EOLhyphen"/>ers run, and upon what the Absolution was given, in so Publick and so Pompous a manner.</p>
+            <p>A Man that is Condemn'd may be considered, either as being In<g ref="char:EOLhyphen"/>nocent of the Fact, or if Guilty, as having truly repented of it; or though he is Guilty, of the <hi>Fact,</hi> yet as having done well in it, so that what Sins soever besides he may have upon him, he has no<g ref="char:EOLhyphen"/>thing to answer <hi>for,</hi> or to repent of, with relation to that for <hi>which</hi> he is Condemned: The first of these does not belong to this case. The Gentlemen confess the Fact in these Papers, as well as they did it to the Honourable Persons who Examined them. It cannot be said, that they Repented of these Crimes. A sincere Confession, a Hearty Sorrow, and an Amendment as far as is possible, make Repentance compleat. Here was no Confession, even the Blackest
+<pb n="5" facs="tcp:206051:3"/>part is extenuated; no Discovery is made of the Design they were in, or of their way of conducting it: No sort of Sorrow is ex<g ref="char:EOLhyphen"/>pressed for any part of their Guilt; nor is there any Reparation offered, nor any thing towards the securing that Life which one of them had Conspired against. Not so much as the slight Complement of ask<g ref="char:EOLhyphen"/>ing Pardon, which is the lowest Degree of Reparation possible. Five Assassinates are left undiscovered (by him at least) to carry on the Design. Here then there is not any one Act or Branch of Repentance, much less all together. It remains therefore, that these Ministers thought that no Fault was done, no Crime was Committed, and they resolved by so publick an Absolution to declare to the Nation, that they thought the <hi>Assassinating the King</hi> (for the Con<g ref="char:EOLhyphen"/>spiring to do it is the same thing in the Sight of God) is an Unblameable Action, for which a Man is obliged to no Repentance.</p>
+            <p>
+               <hi>Jesuits</hi> are out-done by these Men. They may teach their Dis<g ref="char:EOLhyphen"/>ciples the Arts of Equivocating, or of down right denying the Facts for which they may be Condemned; but they have not yet ventured so far as to own the Blackest Crimes without so much as a Distin<g ref="char:EOLhyphen"/>ction to excuse them. <hi>Garnet</hi> himself could not bear the Flattery of being call'd <hi>a Martyr</hi> when he went to his Execution, for the Gun<g ref="char:EOLhyphen"/>powder-Treason, but with a heavy Countenance said to those who call'd him so, that he had never heard that <hi>a Parricide</hi> (he spoke it in Latin) was a Martyr. These Ministers have gone much further. They Encourage the Party to go on with the Assassination, by their Intimating in so solemn a manner, that they think it is (at least) no action to be repented of, and have assured them by this Action of theirs, that they will Absolve them without their Repenting of it.</p>
+            <p>Sir <hi>William Perkins</hi> says, <hi>He will not Complain of the Hardships of his Tryal, nor of other Rigours put upon him.</hi> This Insinuates, that he thought he had Cause given him to make such Complaints. The Tryals that are already published, carry in all the steps of them, a fairness that former times was not acquainted with: In these the Judges maintain a Character, that has been always pretended to, but that never shewed it self more eminently than of late years; but when ill Characters were to be given of the Justice of the Nation, a general Expression might be better ventured on, than the Particulars themselves. This comes after a Profession that <hi>he was in full disposi<g ref="char:EOLhyphen"/>tion to Charity,</hi> but is no great Instance of it.</p>
+            <p>The longest Article of his Paper is, with Relation to the <hi>Lut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> K. James<hi>'s Commission.</hi> In this he does not at all contradict the Wit<g ref="char:EOLhyphen"/>ness,
+<pb n="6" facs="tcp:206051:4"/>for Mr. <hi>Porter</hi> swears that he said to him <hi>that he saw and read such a Commission,</hi> he does not contradict that; he does not say, that he said no such thing to him, therefore the Credit of the Witness is not touched by what he says.</p>
+            <p>This seeming Contradiction lies only against what he himself once said, and not against that which the Witness deposed. He does not deny that he gave it out for a Commission to make War on the <hi>Per<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of the P. of</hi> Orange. It is very probable he said the same thing to others, more particular to the Five whom he was to furnish, that he had said to Mr. <hi>Porter;</hi> for he had said the same to Mr. <hi>Charnock.</hi> He trys how far he can go to repair this; he denies the Expression of <hi>making War upon the King's Person;</hi> But he owns a General Com<g ref="char:EOLhyphen"/>mission to all the Late King's Subjects to Levy War. Sir <hi>William Perkins,</hi> who was of the Law, could not but know the difference between a <hi>Commission</hi> and a <hi>Proclamation.</hi> The one is indeed general to all Subjects, but the other is Special, appropriated to particular Persons, and to the Bodies in which they are to Command. This could not be a Commission of that kind; He and Sir <hi>John Friend</hi> both had Special Commissions, so they could not but be acquainted with the Stile of them. But why was this writ all with the Late King's own Hand? It was Sworn against him that he had said it was so, and was acknowledged by him to Dr. <hi>Williams,</hi> (that at least) he believed it was his hand, which he had seen so oft, that he had reason to know it. A Prince needs not give himself so much trouble for an ordinary Commission of Levying Men, or making a fair War. Therefore supposing all that he says to be true; here was a Commission of a very extraordinary Nature, and it was given out and understood among them, as a Commission, Warranting the Attacking the Prince of <hi>Orange</hi> and his Guards: He himself put this Construction upon it, and made others understand it so. If this was a Fraud of his, it was a very black one, and ought to have been Confessed and Repented of; but it seems, his Confessors thought the Merit of the Action it self might Excuse all such Artifices.</p>
+            <p>He owns that he was Privy to the <hi>Design,</hi> a very Extenuating expression for one that had such a share in directing the whole, and was to furnish five Persons to execute it. The Words are very soft and gentle to himself, he seems to excuse it, because he was not to have <hi>Acted in it. David,</hi> a true Penitent, prays, <hi>Deliver me from Blood-guiltiness,</hi> tho' he acted no part in the killing <hi>Uriah,</hi> but he gave those Orders that procured it; and therefore he entitles himself
+<pb n="7" facs="tcp:206051:4"/>principally to the Cry of that Blood. But these gentle <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> would not put a Man so hard to it, who proved <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arty. He says, <hi>he was fully satisfied, that few or <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, but those who undertook to do it.</hi> He is here as careful of his Friends as he could be; yet the <hi>few</hi> or <hi>none</hi> imports that to his knowledge some others might be Privy to it, as well as he was.</p>
+            <p>After this, some word or other, intimating his Repentance, might have been well expected; but instead of that an implied Justification of it follows. <hi>He thinks it for his Honour to say that he was entirely in the Interest of the King, and that he was always firmly perswaded of the Justice of his cause.</hi> If it was so, he ought at least to have repented of his taking the <hi>Oaths</hi> to the Present Government, for sa<g ref="char:EOLhyphen"/>ving the Office he had in Chancery. Either that was down-right swearing against his Conscience, or he had a distinction in the mat<g ref="char:EOLhyphen"/>ter, of which his Confessors approved, for his swearing to one Prince, when <hi>he was entirely in the Interest of another.</hi> This alone proves the necessity of demanding a further security, since even a dying Man, together with his 3 Absolvers, thought that these two were not In<g ref="char:EOLhyphen"/>consistent.</p>
+            <p>The Argument with relation to the late King and the present Government, is too large to be entred upon in a Paper of this Na<g ref="char:EOLhyphen"/>ture. The Assassination and the bringing in of a Foreign Army, are Crimes charged on these Persons. These things are here either openly, or by insinuation, justified by the Persons themselves, and very unusually by three of their Ministers, who without any unrea<g ref="char:EOLhyphen"/>sonable Jealousie, may be well concluded to have acted upon this occasion, by Concert with some of the chief men of the Party in o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about the Town.</p>
+            <p>He concludes with the Profession of his Religion. No Communi<g ref="char:EOLhyphen"/>on, that I know, of Christians was ever yet in the World, that justified Assassinations. Even the Council of <hi>Constance</hi> condemned them; when done without a previous Proscription. <hi>(Non expectata sententia Judicis cujuscunque.)</hi> It is a corruption peculiar to our Times, and to that Party, to Graft the Doctrine of Assassinations upon the Christian Religion. God preserve all Men from either Living or Dying in such a Communion. He ends asking pardon in a very limited ex<g ref="char:EOLhyphen"/>pression, <hi>Whoever I may any way have injured, I heartily ask their Pardon.</hi> It seems he thought a design to murder the King and procuring Men to Act in it, was not an Injury, for which Pardon was to be asked in a more humble and explicite manner.</p>
+            <pb n="8" facs="tcp:206051:5"/>
+            <p>It is needless to examine all the Particulars in Sir <hi>John Friend</hi>'s Speech: Great Joy, and much Confidence shew how far his Mini<g ref="char:EOLhyphen"/>sters could work him up to be satisfied with the Design of bringing in an Army of Foreigners, to destroy both the Religion that he professed, and his Native Country. This proves nothing but the Power of Persuasion, and the Credit that those wretched Men had with him. Such a Scene of Horror as a French Army must have opened in <hi>England,</hi> and all that Blood and Destruction that must have followed upon it, gave neither him, nor them, any sort of Trouble. It damp'd not his Joy, nor their Boldness in Absolving him. Even a good Cause will not justifie such black Methods. But how lit<g ref="char:EOLhyphen"/>tle Tenderness soever this unhappy Knight had for his Country, he expresses a great deal for the Papists. He had argued in his Tryal, <hi>That the Oaths of Papists were not to be believed against Protestants, That their Priests could Absolve them from all Oaths; That they use Equivocations,</hi>
+               <note place="margin">Tryal, F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 26.</note>
+               <hi>Mental Reservations, and may have a Dispensation for such Forswearing, and afterwards for all Villanies.</hi> Upon this Occasion, his Conscience was so tender, that he thought a publick Reparation was to be made. What a Man urges in his Defence has never past as so heinous a Matter, that great Apologies were to be made for it. I will not quite justi<g ref="char:EOLhyphen"/>fie the Morality of such a Method: But after all, a Niceness here looks like <hi>The Straining at a Gnat.</hi> But a Kindness was to be shewn to that Party; and perhaps he who Penn'd the Speech, intended it as an Article of Merit, when those black Designs can be compas<g ref="char:EOLhyphen"/>sed of Assassination and Foreign Invasion; which the Absolvers, and in them the whole Party, if they do not disown them for it, have done what in them lay, to make pass for Meritorious Actions, at least, for Actions that need not to be repented of.</p>
+            <p>These poor Gentlemen have carried their Burden along with them into another World, where I am afraid their Absolution will serve them in no stead; but I am sure the Circumstances of this Execu<g ref="char:EOLhyphen"/>tion let us all see in what Danger we are, when we have among us such a desperate Crew, who have acted such a Part as these Absol<g ref="char:EOLhyphen"/>vers have done, in so impudent manner.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206051:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
